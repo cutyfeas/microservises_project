@@ -1,0 +1,6 @@
+#specify base image
+FROM alpine 
+#download and install dependency
+RUN apk add --update redis
+#setup startup command
+CMD ["redis-server"]
