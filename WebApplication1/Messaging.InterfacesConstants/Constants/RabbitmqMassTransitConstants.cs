@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Messaging.InterfacesConstants.Constants
 {
-    internal class RabbitmqMassTransitConstants
+    public class RabbitmqMassTransitConstants
     {
+        public const string rabbitmquri = "rabbitmq://rabbitmq:";
+        public const string username = "";
+        public const string password = "";
     }
 }

@@ -374,19 +374,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VishalKumar\\.nuget\\packages\\": {}
+    "C:\\Users\\vishalkumar1017\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapi\\faceapi.csproj",
+      "projectUniqueName": "C:\\Users\\vishalkumar1017\\Documents\\microservises_project\\faceapi\\faceapi.csproj",
       "projectName": "faceapi",
-      "projectPath": "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapi\\faceapi.csproj",
-      "packagesPath": "C:\\Users\\VishalKumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapi\\obj\\",
+      "projectPath": "C:\\Users\\vishalkumar1017\\Documents\\microservises_project\\faceapi\\faceapi.csproj",
+      "packagesPath": "C:\\Users\\vishalkumar1017\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vishalkumar1017\\Documents\\microservises_project\\faceapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VishalKumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vishalkumar1017\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

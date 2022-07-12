@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapitest\\faceapitest.csproj": {}
+    "C:\\Users\\vishalkumar1017\\Documents\\microservises_project\\faceapitest\\faceapitest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapitest\\faceapitest.csproj": {
+    "C:\\Users\\vishalkumar1017\\Documents\\microservises_project\\faceapitest\\faceapitest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapitest\\faceapitest.csproj",
+        "projectUniqueName": "C:\\Users\\vishalkumar1017\\Documents\\microservises_project\\faceapitest\\faceapitest.csproj",
         "projectName": "faceapitest",
-        "projectPath": "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapitest\\faceapitest.csproj",
-        "packagesPath": "C:\\Users\\VishalKumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapitest\\obj\\",
+        "projectPath": "C:\\Users\\vishalkumar1017\\Documents\\microservises_project\\faceapitest\\faceapitest.csproj",
+        "packagesPath": "C:\\Users\\vishalkumar1017\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vishalkumar1017\\Documents\\microservises_project\\faceapitest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VishalKumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vishalkumar1017\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
