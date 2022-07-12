@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "UePs/Zc4ekfpC9JzgrwAY/Qh+x0QmmpdYKARVEi+LufOQBZ9Q8mV4CzhSrMjsFJ3S8E4io0MSNn1rB8dHkk2Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VishalKumar\\Documents\\vishal\\Projects\\microservises_proj\\faceapi\\faceapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\opencvsharp4\\4.6.0.20220608\\opencvsharp4.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\opencvsharp4.runtime.win\\4.6.0.20220608\\opencvsharp4.runtime.win.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\opencvsharp4.windows\\4.6.0.20220608\\opencvsharp4.windows.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\VishalKumar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
